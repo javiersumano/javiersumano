@@ -1,5 +1,5 @@
 ## Hola!! Soy Javier Sumano 👋 ¡Encatado de conocerte!
-
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javiersanchezsumano/)
 
 ## 👨‍💻 Sobre mí:
 Apasionado por la tecnología y el análisis de datos, estoy en el proceso de consolidar mi carrera como Data Analyst.
