@@ -10,7 +10,7 @@
 </div>
 
 <h1>
-  Hola, mi nombre es Javier S. Sumano. ¡Encantada de conocerte!
+  Hola, mi nombre es Javier S. Sumano. ¡Encantado de conocerte!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
