@@ -18,10 +18,10 @@
 ## 👨‍💻 Sobre mí:
 Apasionado por la tecnología y disfrutando de mi transición hacia el Data Science.
 
-* 🔭 Actualmente curso un programa de Data Science en TripleTen, y estoy emocionado por aplicar mis habilidades para transformar datos en decisiones estratégicas. 💪
+* 🔭 Actualmente termine mi estudios como Data Science en TripleTen, y estoy emocionado por aplicar mis habilidades para transformar datos en decisiones estratégicas. 💪
 * 🌱 Trabajo con herramientas como Python, SQL y Power BI, además de tener experiencia en auditoría de calidad ISO 9001:2015 y Lean Six Sigma. También estoy desarrollando proyectos de Business Intelligence y análisis predictivo.
 * 💓 Me apasiona descubrir nuevas formas de optimizar y automatizar mi trabajo a través de análisis de datos y la lógica detrás de la programación. Siempre en búsqueda de aprender y mejorar. 🚀
-*  :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Javier_Sánchez_Sumani-blue?style=flat&logo=Linkedin&logoColor=white)](https://github.com/javiersumano/javiersumano/)
+*  :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Javier_Sánchez_Sumano-blue?style=flat&logo=Linkedin&logoColor=white)](https://github.com/javiersumano/javiersumano/)
 * 📧: javierssumano@outlook.com 
 ---
 
