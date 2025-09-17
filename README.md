@@ -19,7 +19,8 @@
 
 
 ## 👨‍💻 ABOUT ME:
-Apasionado por la tecnología y disfrutando de mi transición hacia el Data Science.
+
+I am passionate about technology and currently transitioning into Data Science. My goal is to turn data into strategic insights that drive informed decision-making.
 
 * 🔭 I completed a Data Science bootcamp at TripleTen and am excited to apply my skills to real-world projects. 💪
 * 🌱 I work with tools such as Python, SQL, Excel, and Power BI, and I also have experience in quality auditing (ISO 9001:2015) and Lean Six Sigma methodologies.
@@ -29,7 +30,7 @@ Apasionado por la tecnología y disfrutando de mi transición hacia el Data Scie
 * 📧: javierssumano@outlook.com 
 ---
 
-### :hammer_and_wrench: Lenguajes y herramientas :
+### :hammer_and_wrench: Skills & Tools :
 
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
